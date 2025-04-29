@@ -1,11 +1,14 @@
 List of Orders - Power BI Project
+---
 
 📊 Project Overview
-
+---
 This Power BI project focuses on analyzing a comprehensive list of customer orders. The objective is to derive meaningful insights related to sales performance, customer purchasing behavior, product popularity, and order trends over time.
 
-🔍 Objectives
+---
 
+🔍 Objectives
+---
 Analyze order volumes over time
 
 Identify best-selling products and categories
@@ -16,8 +19,10 @@ Examine order value distribution
 
 Provide data-driven recommendations for sales improvement
 
-🧾 Dataset Description
+---
 
+🧾 Dataset Description
+---
 The dataset includes the following fields:
 
 Order ID
@@ -40,16 +45,20 @@ Order Status
 
 Note: The dataset is used for educational and analytical purposes only.
 
-🛠️ Tools Used
+---
 
+🛠️ Tools Used
+---
 Power BI for data transformation, visualization, and dashboard creation
 
 Power Query for ETL processes
 
 DAX for creating custom measures and KPIs
 
-📈 Key Insights
+---
 
+📈 Key Insights
+---
 This project provided insights such as:
 
 Monthly and quarterly sales trends
@@ -62,7 +71,10 @@ Time lag between order and delivery
 
 Order status distribution
 
+---
+
 📸 Dashboard Previews
+---
 ![Screenshot 2025-04-29 131512](https://github.com/user-attachments/assets/687f2bd7-e2dc-4457-a7d6-3ba53a406a22)
 
 Line chart showing monthly sales trends
@@ -70,17 +82,20 @@ Line chart showing monthly sales trends
 
 Bar chart of top-selling products
 
-💡 Future Enhancements
+---
 
+💡 Future Enhancements
+---
 Include customer segmentation analysis
 
 Incorporate predictive modeling for sales forecasting
 
 Compare seasonal sales performance across years
 
+---
 
 📬 Contact
-
+---
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 
 Name: Dilip Vankayala

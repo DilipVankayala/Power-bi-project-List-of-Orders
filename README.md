@@ -96,12 +96,7 @@ Compare seasonal sales performance across years
 
 📬 Contact
 ---
-For any questions, feedback, or collaboration opportunities, feel free to reach out:
-
-Name: Dilip Vankayala
-
-Email: dilipv2003@gmail.com
-
-LinkedIn: linkedin.com/in/dilip-vankayala-820a312b2
-
-GitHub: github.com/DilipVankayala
+**Author**: Dilip Vankayala  
+**Email**: [dilipv2003@gmail.com](mailto:dilipv2003@gmail.com)  
+**LinkedIn**: [linkedin.com/in/dilip-vankayala-820a312b2](https://linkedin.com/in/dilip-vankayala-820a312b2)  
+**GitHub**: [github.com/DilipVankayala](https://github.com/DilipVankayala)

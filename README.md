@@ -1,69 +1,92 @@
-Power BI Project: Analyzing Order Data
+List of Orders - Power BI Project
 
-Project Objective:
+📊 Project Overview
 
-To create a comprehensive Power BI dashboard that provides insightful visualizations of order data, enabling stakeholders to understand sales trends, customer behavior, and operational performance.
+This Power BI project focuses on analyzing a comprehensive list of customer orders. The objective is to derive meaningful insights related to sales performance, customer purchasing behavior, product popularity, and order trends over time.
 
-Data Source:
+🔍 Objectives
 
-Order Data: A dataset containing detailed information about orders, including:
+Analyze order volumes over time
+
+Identify best-selling products and categories
+
+Evaluate customer purchase frequency
+
+Examine order value distribution
+
+Provide data-driven recommendations for sales improvement
+
+🧾 Dataset Description
+
+The dataset includes the following fields:
+
 Order ID
-Order Date
-Customer ID
-Product ID
+
+Customer Name
+
+Product Name
+
+Category
+
 Quantity
-Price
-Shipping Address
-Payment Method
-Data Preparation and Modeling:
 
-Data Cleaning:
+Order Date
 
-Handle missing values (e.g., imputation or removal)
-Identify and correct inconsistencies in data formats (e.g., date, currency)
-Remove duplicates or outliers
-Data Transformation:
+Order Value
 
-Create calculated columns or measures for:
-Total Sales
-Average Order Value
-Customer Lifetime Value
-Product Category
-Order Status (e.g., Shipped, Cancelled, Returned)
-Data Modeling:
+Shipping Date
 
-Establish relationships between tables (e.g., Orders and Customers, Orders and Products)
-Create a hierarchical structure for products (e.g., Category, Subcategory, Product)
-Dashboard Design and Visualizations:
+Order Status
 
-Overview Dashboard:
+Note: The dataset is used for educational and analytical purposes only.
 
-Key Performance Indicators (KPIs):
-Total Sales
-Average Order Value
-Number of Orders
-Top-Selling Products
-Time Series Chart:
-Sales over time (daily, weekly, monthly, yearly)
-Identify trends and seasonal patterns
-Geographical Map:
-Sales by region or country
-Bar Chart:
-Top-selling product categories
-Customer Insights Dashboard:
+🛠️ Tools Used
 
-Customer Segmentation:
-Segment customers based on purchase frequency, recency, and monetary value (RFM analysis)
-Customer Lifetime Value (CLTV) Analysis:
-Identify high-value customers
-Customer Churn Analysis:
-Track customer retention rates
-Product Performance Dashboard:
+Power BI for data transformation, visualization, and dashboard creation
 
-Product Sales Analysis:
-Top-selling products
-Slow-moving products
-Product Profitability Analysis:
-Identify high-margin products
-Product Cross-Selling and Upselling Opportunities:
-Analyze product bundles and complementary items
+Power Query for ETL processes
+
+DAX for creating custom measures and KPIs
+
+📈 Key Insights
+
+This project provided insights such as:
+
+Monthly and quarterly sales trends
+
+Top customers by revenue
+
+Most frequently purchased products
+
+Time lag between order and delivery
+
+Order status distribution
+
+📸 Dashboard Previews
+![Screenshot 2025-04-29 131512](https://github.com/user-attachments/assets/687f2bd7-e2dc-4457-a7d6-3ba53a406a22)
+
+Line chart showing monthly sales trends
+
+
+Bar chart of top-selling products
+
+💡 Future Enhancements
+
+Include customer segmentation analysis
+
+Incorporate predictive modeling for sales forecasting
+
+Compare seasonal sales performance across years
+
+
+📬 Contact
+
+For any questions, feedback, or collaboration opportunities, feel free to reach out:
+
+Name: Dilip Vankayala
+
+Email: dilipv2003@gmail.com
+
+LinkedIn: linkedin.com/in/dilip-vankayala-820a312b2
+
+GitHub: github.com/DilipVankayala
